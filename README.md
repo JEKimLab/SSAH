@@ -6,7 +6,7 @@
 
 This repository corresponds to our ICLR 2026 paper.
 
-Due to a tight schedule, we were not able to fully prepare and release the complete codebase before the camera-ready deadline. We are currently balancing multiple responsibilities, including:
+Due to a tight schedule, we were not able to fully prepare and release the complete codebase before the camera-ready deadline. I am currently balancing multiple responsibilities, including:
 
 - ongoing NeurIPS paper work,
 - exploration of new research directions,
